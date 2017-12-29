@@ -1,0 +1,13 @@
+*.c
+*.h
+*.o
+*.txt
+*.se1
+PerlSwissEph-2.05.tar.gz
+libswe.a
+sedeltat.txt.inactive
+swetest
+swetest2
+
+
+!swetest2.c
